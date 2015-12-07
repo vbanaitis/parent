@@ -4,13 +4,13 @@
 
     <groupId>lt.vbanaitis</groupId>
     <artifactId>vbanaitis-parent</artifactId>
-    <version>0.8-SNAPSHOT</version>
+    <version>0.8</version>
     <packaging>pom</packaging>
 
     <scm>
         <developerConnection>scm:git:https://github.com/vbanaitis/parent.git</developerConnection>
         <connection>scm:git:https://github.com/vbanaitis/parent.git</connection>
-        <tag>HEAD</tag>
+        <tag>vbanaitis-parent-0.8</tag>
     </scm>
 
     <distributionManagement>
