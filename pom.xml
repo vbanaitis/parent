@@ -17,7 +17,7 @@
         <repository>
             <id>bintray-vidmantas-banaitis-maven</id>
             <name>bintray</name>
-            <url>http://dl.bintray.com/vidmantas-banaitis/maven</url>
+            <url>https://api.bintray.com/maven/vidmantas-banaitis/maven/parent/;publish=1</url>
         </repository>
     </distributionManagement>
 
