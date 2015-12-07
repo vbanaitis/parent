@@ -28,7 +28,7 @@
                 <version>2.5.3</version>
                 <inherited>false</inherited>
                 <configuration>
-                    <pushChanges>false</pushChanges>
+                    <!--<pushChanges>false</pushChanges>-->
                     <tagNameFormat>@{project.artifactId}-@{project.version}</tagNameFormat>
                     <providerImplementations>
                         <git>jgit</git>
